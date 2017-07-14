@@ -11,9 +11,6 @@ only    |除当前窗口外关闭其他窗口
 help (<command>)  |帮助文件
 
 # 1. 跳转类命令 #
-=======
-# 1. 光标控制命令 #
->>>>>>> parent of e627bb3... add more vim command(most are high-level)
 
 ## 1.1 基本跳转 ##
 
